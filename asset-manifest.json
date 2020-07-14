@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/tomashco/colorApp/static/css/main.2f54813b.chunk.css",
-    "main.js": "/tomashco/colorApp/static/js/main.06571fd2.chunk.js",
-    "main.js.map": "/tomashco/colorApp/static/js/main.06571fd2.chunk.js.map",
-    "runtime-main.js": "/tomashco/colorApp/static/js/runtime-main.918e86b9.js",
-    "runtime-main.js.map": "/tomashco/colorApp/static/js/runtime-main.918e86b9.js.map",
-    "static/css/2.7095f003.chunk.css": "/tomashco/colorApp/static/css/2.7095f003.chunk.css",
-    "static/js/2.3ca62ca3.chunk.js": "/tomashco/colorApp/static/js/2.3ca62ca3.chunk.js",
-    "static/js/2.3ca62ca3.chunk.js.map": "/tomashco/colorApp/static/js/2.3ca62ca3.chunk.js.map",
-    "index.html": "/tomashco/colorApp/index.html",
-    "precache-manifest.8a432431b91b9f0cab774ee4e7606a7c.js": "/tomashco/colorApp/precache-manifest.8a432431b91b9f0cab774ee4e7606a7c.js",
-    "service-worker.js": "/tomashco/colorApp/service-worker.js",
-    "static/css/2.7095f003.chunk.css.map": "/tomashco/colorApp/static/css/2.7095f003.chunk.css.map",
-    "static/css/main.2f54813b.chunk.css.map": "/tomashco/colorApp/static/css/main.2f54813b.chunk.css.map",
-    "static/js/2.3ca62ca3.chunk.js.LICENSE.txt": "/tomashco/colorApp/static/js/2.3ca62ca3.chunk.js.LICENSE.txt",
-    "static/media/bg.svg": "/tomashco/colorApp/static/media/bg.3c839eb1.svg"
+    "main.css": "/colorApp/static/css/main.2f54813b.chunk.css",
+    "main.js": "/colorApp/static/js/main.a581a9ef.chunk.js",
+    "main.js.map": "/colorApp/static/js/main.a581a9ef.chunk.js.map",
+    "runtime-main.js": "/colorApp/static/js/runtime-main.ebd208ce.js",
+    "runtime-main.js.map": "/colorApp/static/js/runtime-main.ebd208ce.js.map",
+    "static/css/2.7095f003.chunk.css": "/colorApp/static/css/2.7095f003.chunk.css",
+    "static/js/2.3ca62ca3.chunk.js": "/colorApp/static/js/2.3ca62ca3.chunk.js",
+    "static/js/2.3ca62ca3.chunk.js.map": "/colorApp/static/js/2.3ca62ca3.chunk.js.map",
+    "index.html": "/colorApp/index.html",
+    "precache-manifest.71cf8789d5a03243b376a95a4a186263.js": "/colorApp/precache-manifest.71cf8789d5a03243b376a95a4a186263.js",
+    "service-worker.js": "/colorApp/service-worker.js",
+    "static/css/2.7095f003.chunk.css.map": "/colorApp/static/css/2.7095f003.chunk.css.map",
+    "static/css/main.2f54813b.chunk.css.map": "/colorApp/static/css/main.2f54813b.chunk.css.map",
+    "static/js/2.3ca62ca3.chunk.js.LICENSE.txt": "/colorApp/static/js/2.3ca62ca3.chunk.js.LICENSE.txt",
+    "static/media/bg.svg": "/colorApp/static/media/bg.3c839eb1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.918e86b9.js",
+    "static/js/runtime-main.ebd208ce.js",
     "static/css/2.7095f003.chunk.css",
     "static/js/2.3ca62ca3.chunk.js",
     "static/css/main.2f54813b.chunk.css",
-    "static/js/main.06571fd2.chunk.js"
+    "static/js/main.a581a9ef.chunk.js"
   ]
 }
